@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SlviACH6
-- 👀 I’m interested in how things work
-- 🌱 I’m currently learning GitHub
+- 👋 Hi, I’m Silvia!
+- 👀 Interested in how things work
+- 🌱 Currently... involve in a full Stack boot camp
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 I just got here!
 
