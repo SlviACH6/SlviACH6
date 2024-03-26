@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silvia!
 - 👀 Interested in how things work
-- 🌱 Currently... involve in a full Stack boot camp
+- 🌱 Recently graduated from a Full Stack BootCamp!
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 I just got here!
 
